@@ -1,2 +1,8 @@
-# Myfirst_Repo
-A repository to practice and learn GitHub basics, including version control, creating repositories, and working with Markdown files.
+# Learning GitHub Basics
+
+This repository is for practicing GitHub fundamentals:
+- Version control basics
+- Creating repositories
+- Working with Markdown files
+
+Feel free to explore and learn!
